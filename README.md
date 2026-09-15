@@ -72,7 +72,7 @@ I enjoy tackling complex problems, from processing lunar data to building real-t
 
 ### 📫 Let's Connect!
 
-- 📧 **Email:** [saikamalannnuri@gmail.com](mailto:saikamalannnuri@gmail.com)
+- 📧 **Email:** [saikamalannnuri@gmail.com](mailto:saikamalnannuri@gmail.com)
 - 💼 **LinkedIn:** [Nannuri Sai Kamal](https://www.linkedin.com/in/nannuri-saikamal-020b48223a/)
 - 🐙 **GitHub:** [Uchihakamal1816](https://github.com/Uchihakamal1816)
 - 🤗 **Hugging Face:** [uchihamadara1816](https://huggingface.co/uchihamadara1816)
