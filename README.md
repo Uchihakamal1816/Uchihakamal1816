@@ -63,10 +63,12 @@ I enjoy tackling complex problems, from processing lunar data to building real-t
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**Image Mask via Text Prompts**](https://github.com/Uchihakamal1816/) | VLM-powered system for pixel-level segmentation via text prompts, containerized for production. | Grounding DINO, SAM, LLaVA, Flask, Docker |
+| [**Vision42**](https://github.com/Uchihakamal1816/Vision42) | Vision–Language chatbot designed to analyze, caption, and reason over geospatial satellite imagery. | Python, VLM, Remote Sensing |
+| [**AutoDataLab-Env**](https://github.com/Uchihakamal1816/autodatalab-env) | Hackathon-ready environment simulating a real e-commerce data analyst workflow. | Python, Data Analytics |
+| [**Image Mask via Text Prompts**](https://github.com/Uchihakamal1816/Image-mask-by-text) | VLM-powered system for pixel-level segmentation via text prompts, containerized for production. | Grounding DINO, SAM, LLaVA, Flask, Docker |
 | [**CloudCon**](https://github.com/Uchihakamal1816/) | Streamlined GCP-based AutoML & Vertex AI pipelines, deploying high-availability ML endpoints. | GCP, Vertex AI, AutoML, GKE, Pub/Sub |
 | [**Elemental Abundance on Lunar Surface**](https://github.com/Uchihakamal1816/) | ML model & web app to cluster elemental data from ISRO API and visualize it on an interactive lunar map. | PyTorch, React, QGIS, TOPCAT, ISRO API |
-| [**Dimension Calculator**](https://github.com/Uchihakamal1816/) | Edge-ready pipeline for high-accuracy steel block dimension measurement at Bhilai Steel Plant. | U²-Net, ONNX Runtime, OpenCV DNN, Kotlin |
+| [**Dimension Calculator**](https://github.com/Uchihakamal1816/u2net-distance-app) | Edge-ready pipeline for high-accuracy steel block dimension measurement at Bhilai Steel Plant. | U²-Net, ONNX Runtime, OpenCV DNN, Kotlin |
 
 ---
 
